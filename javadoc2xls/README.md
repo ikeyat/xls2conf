@@ -1,3 +1,7 @@
+# Attention
+**This project was moved to https://github.com/ikeyat/javadoc2xls. Please migrate as written on that README.md.**
+
+
 # Motivation
 
 This tool aim to generate test case documents (Excel worksheet) from javadoc on JUnit classes.
